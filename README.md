@@ -1,3 +1,3 @@
-# Base de datos - Control Academico
+# Base de datos - Forno Bistro
 
-Base de datos para proyecto del control academico desarrollado en Java FX
+Base de datos para proyecto del Forno Bistro desarrollado en Java Enterprise Edition
